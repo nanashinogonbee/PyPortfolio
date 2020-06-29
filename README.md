@@ -19,20 +19,20 @@
 
 
 ## 5 семестр
-[Тема 1]()
+[Тема 1](https://github.com/python-advance/sem5-t1-nanashinogonbee)
 
 [Тема 2](https://github.com/python-advance/sem5-t2-nanashinogonbee)
 
 [Тема 3]()
 
-[Тема 4]()
+[Тема 4](https://github.com/python-advance/sem5-t4-nanashinogonbee)
 
 ## 6 семестр
-[Тема 1]()
+[Тема 1](https://github.com/python-advance/t1-datascienceintro-nanashinogonbee)
 
 [Тема 2]()
 
 [Тема 3](https://github.com/python-advance/t3-gui-nanashinogonbee)
 
-[Тема 4]()
+[Тема 4](https://github.com/python-advance/t4-env-nanashinogonbee)
 
